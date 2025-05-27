@@ -282,3 +282,4 @@ D:\ProductManagement\ProductManagement\WebApplication1\bin\Debug\net8.0\runtimes
 D:\ProductManagement\ProductManagement\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\ProductManagement\ProductManagement\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\ProductManagement\ProductManagement\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ProductManagement\ProductManagement\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
